@@ -1,16 +1,38 @@
-## Hi there 👋
+# ¡Hola! Soy Agustín 👋
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
-<!--
-**AgustinAzorin/AgustinAzorin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudiante de Técnico en Avionica | Desarrollador en formación  
+⚡ Apasionado por la programación, las bases de datos y los proyectos creativos  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Algunas de las Tecnologías con las que trabaje:
+- **Lenguajes:** JavaScript | TypeScript | Python | C#  
+- **Backend:** Node.js, Express, Sequelize, JWT  
+- **Frontend:** HTML, CSS, React + Tailwind  
+- **Bases de datos:** PostgreSQL | Supabase  
+- **Otros:** Docker | Render | Git  
+
+---
+
+## 📌 Algunos de mis proyectos
+- 🦶 **UpFeets 3D** → Sistema de escaneo e impresión 3D de plantillas ortopédicas  
+- ⚽ **Simulador táctico de fútbol** → Juego de escritorio con motor en Python + C# UI  
+- 📊 **Tiewnda de ropa Virtual** → Plataforma en la que vendedores peudan subir ropa y los usuarios puedan ver como les quedaria en un modelo 3D
+-  **Taskflow**  → Plataforma en la queun equipo de trabajo pueda subir tareas y asignarle responsables
+
+---
+
+## 📚 Actualmente aprendiendo
+- Arquitectura de software
+- Avanzando en SQL y ORM (Sequelize)
+- Patrones de diseño
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AgustinAzorin&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AgustinAzorin&layout=compact&theme=radical)
+
+
+
+
+⭐ *Si te gustan mis proyectos, no olvides dejar una estrella en los repos 😉*
