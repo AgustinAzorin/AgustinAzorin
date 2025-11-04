@@ -7,27 +7,19 @@
 ---
 
 ## 🚀 Algunas de las Tecnologías con las que trabaje:
-- **Lenguajes:** JavaScript | TypeScript | Python | C#  
-- **Backend:** Node.js, Express, Sequelize, JWT  
-- **Frontend:** HTML, CSS, React + Tailwind  
+- **Lenguajes:** JavaScript | Python   
+- **Backend:** Node.js, Express, Sequelize, JWT    
 - **Bases de datos:** PostgreSQL | Supabase  
-- **Otros:** Docker | Render | Git  
+- **Despliegue:** Docker | Render  
 
 ---
 
 ## 📌 Algunos de mis proyectos
-- 🦶 **UpFeets 3D** → Sistema de escaneo e impresión 3D de plantillas ortopédicas  
-- ⚽ **Simulador táctico de fútbol** → Juego de escritorio con motor en Python + C# UI  
-- 📊 **Tiewnda de ropa Virtual** → Plataforma en la que vendedores peudan subir ropa y los usuarios puedan ver como les quedaria en un modelo 3D
--  **Taskflow**  → Plataforma en la queun equipo de trabajo pueda subir tareas y asignarle responsables
+- **To Do List** → Aplicacion web en la que los usuarios pueden crear listas de tareas para completar
+- **Product Magnament** → Aplicaion web en la que los usuarios pueden crear productos, asginarle precios, unidades y una descripcion (falta profundizar)
+- **Taskflow**  → Plataforma en la que un equipo de trabajo pueda subir tareas y asignarle responsables
 
 ---
-
-## 📚 Actualmente aprendiendo
-- Arquitectura de software
-- Avanzando en SQL y ORM (Sequelize)
-- Patrones de diseño
-
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AgustinAzorin&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AgustinAzorin&layout=compact&theme=radical)
